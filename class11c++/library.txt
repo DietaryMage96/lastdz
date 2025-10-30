@@ -1,0 +1,3 @@
+Book;Harry Potter;1997;J.K.Rowling;500;
+Magazine;National Geographic;1980;12;
+Newspaper;Times;1965;12.05.1965;

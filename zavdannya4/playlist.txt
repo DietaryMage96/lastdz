@@ -1,0 +1,6 @@
+MP3;Imagine Dragons - Believer;5.4;204
+WAV;Hans Zimmer - Time;22.1;273
+FLAC;Ludovico Einaudi - Experience;18.7;321
+MP3;The Weeknd - Blinding Lights;6.2;200
+WAV;Daft Punk - Get Lucky;24.5;370
+FLAC;Queen - Bohemian Rhapsody;19.8;355
